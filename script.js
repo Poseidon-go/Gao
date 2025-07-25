@@ -103,7 +103,7 @@ function showSpecialMessage() {
                 Chúc em luôn vui vẻ, hạnh phúc và thành công!
             </p>
             <p style="color: #4ecdc4; font-weight: bold;">
-                Người bạn tương lai của em 💕
+                Chú Nước Ngoài của Gạo 💕
             </p>
             <button onclick="this.parentElement.parentElement.remove()" style="
                 margin-top: 15px;
